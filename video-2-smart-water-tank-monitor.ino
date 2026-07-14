@@ -1,5 +1,5 @@
 // ============================================================
-//  MiniMakrLab — Smart Water Tank Monitor v1.0
+//  tinkrwave — Smart Water Tank Monitor v1.0
 //  PIN MAP:
 //  TRIG      → Pin 6
 //  ECHO      → Pin 5
@@ -52,7 +52,7 @@ void setup() {
   digitalWrite(buzzer,    LOW);
 
   Serial.println("============================");
-  Serial.println(" MiniMakrLab Tank Monitor   ");
+  Serial.println(" tinkrwave Tank Monitor   ");
   Serial.println("============================");
   Serial.println("RED    → Pin 2 (LOW  <30%)  ");
   Serial.println("YELLOW → Pin 3 (MED  30-60%)");

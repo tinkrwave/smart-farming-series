@@ -1,11 +1,11 @@
-# MiniMakrLab Smart Farming Series 🌾⚡
+# tinkrwave Smart Farming Series 🌾⚡
 
 DIY IoT agriculture automation for Nepal and South Asia. Build smart farming systems with ESP32, sensors, and affordable components.
 
 ## 📺 Video Series (10 Videos)
 
 ### Video 1: Auto Irrigation System
-- **YouTube**: [Watch here](https://youtube.com/@minimakrlab)
+- **YouTube**: [Watch here](https://youtube.com/@tinkrwave)
 - **Code**: [`video-1-auto-irrigation.ino`](./video-1-auto-irrigation.ino)
 - **Components**:
   - ESP32
@@ -13,10 +13,10 @@ DIY IoT agriculture automation for Nepal and South Asia. Build smart farming sys
   - 5V Relay
   - Water Pump
 - **Wiring Diagram**: [See diagram below](#wiring-diagrams)
-- **Tutorial**: [Full 5-minute build on YouTube](https://youtube.com/@minimakrlab)
+- **Tutorial**: [Full 5-minute build on YouTube](https://youtube.com/@tinkrwave)
 
 ### Video 2: Smart Water Tank Monitor
-- **YouTube**: [Watch here](https://youtube.com/@minimakrlab)
+- **YouTube**: [Watch here](https://youtube.com/@tinkrwave)
 - **Code**: [`video-2-water-tank-monitor.ino`](./video-2-smart-water-tank-monitor.ino)
 - **Components**:
   - ESP32
@@ -26,7 +26,7 @@ DIY IoT agriculture automation for Nepal and South Asia. Build smart farming sys
 - **Wiring Diagram**: [See diagram below](#wiring-diagrams)
 
 ### Video 3: Farm Weather Station
-- **YouTube**: [Watch here](https://youtube.com/@minimakrlab)
+- **YouTube**: [Watch here](https://youtube.com/@tinkrwave)
 - **Code**: [`video-3-farm-weather-station.ino`](./video-3-farm-weather-station.ino)
 - **Components**:
   - ESP32

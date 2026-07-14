@@ -1,5 +1,5 @@
 // ============================================================
-//  MiniMakrLab — Smart Farm Monitor v1.4 (Final Master)
+//  tinkrwave — Smart Farm Monitor v1.4 (Final Master)
 //  DHT11 + Digital Rain Sensor + Dual-Color OLED + Status LEDs
 //
 //  PIN MAP (Optimized for your working brass setup):
